@@ -3,7 +3,7 @@
 
 
 
-### [Personal Blog](https://jaindavid.blogspot.com/)
+### [Personal Blog](https://aadityajain-dev.blogspot.com/)
 
-### [Resume](https://DavidJain.github.io/resume)
+### [Resume](/resume)
 > I had to remove my contact number from the resume, I was getting too many spam calls because of it.
