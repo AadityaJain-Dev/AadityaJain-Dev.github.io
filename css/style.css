@@ -1,0 +1,36 @@
+html, body{
+background-color: #18191a;
+color: #b0b3b8;
+text-align: center;
+font-family: Verdana, sans-serif;
+}
+
+a{
+    color: #e4e6eb;
+    font-weight: bolder;
+    text-decoration: none;
+}
+p{
+    font-size: 1vw;
+
+}
+.px-30{
+    margin-top: 20px;
+    font-size: 2vw;
+}
+
+img{
+    height: 100%;
+    width: 100%;
+    max-width: 800px;
+}
+
+@media only screen and (max-width: 600px) {
+    p{
+        font-size: 3vw;
+    }
+    .px-30{
+        margin-top: 20px;
+        font-size: 4vw;
+    }
+  }
